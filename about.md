@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
 ---
 
-Some information about you!
+I am Sebabe, a software developer focused on building scalable systems.
 
-### More Information
+Projects:
+- Zoo Management System (Laravel)
+- Phone Management System (Django)
+- Hotel System (React)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Vision:
+To build impactful technology solutions in Africa.
